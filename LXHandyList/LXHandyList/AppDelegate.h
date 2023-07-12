@@ -1,0 +1,14 @@
+//
+//  AppDelegate.h
+//  LXHandyList
+//
+//  Created by li on 2023/7/12.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+
+@end
+
